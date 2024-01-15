@@ -38,6 +38,10 @@ Model duping involves tricking a Large Language Model (LLM) such as ChatGPT into
 
 ## Defenses
 
+## Samples
+
+- [Sample 01](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-adversarial.ipynb)
+
 ## References
 
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
