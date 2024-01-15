@@ -1,6 +1,6 @@
 # Generative AI Attacks
 
-## Attacks
+## Prompt Injection Attacks
 
 Prompt injection is a vulnerability in large language model applications that allows attackers to manipulate the model by providing specific inputs. These inputs can trick the model into executing unintended instructions or ignoring its original instructions. This can lead to the model giving incorrect responses or making decisions that it shouldn't. In simpler terms, the questions or instructions you give to an AI can greatly impact its response, and prompt injection is a way for attackers to exploit this.
 
