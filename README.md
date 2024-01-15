@@ -40,4 +40,5 @@ Model duping involves tricking a Large Language Model (LLM) such as ChatGPT into
 
 ## References
 
+- [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial)
 - [Guide to prompt injection](https://www.lakera.ai/blog/guide-to-prompt-injection)
